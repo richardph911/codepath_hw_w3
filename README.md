@@ -19,7 +19,7 @@ Save the file as **screenfetch.gif**.
 **Challenges and Problems**: 
 
 ### Installing VirtualBox and Kali
-<img src="vbox_kali.gif" alt="Virtualbox Installation">
+<img src="https://recordit.co/44KhTCMbzS" alt="Virtualbox Installation">
  
 ### Running screenfetch
 <img src="screenfetch.gif" alt="Running screenfetch">
