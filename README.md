@@ -23,4 +23,4 @@ The Kap tools export too large gif so I have to use diffeerent tool to record it
 <img src="https://recordit.co/44KhTCMbzS.gif" alt="Virtualbox Installation">
  
 ### Running screenfetch
-<img src="https://recordit.co/5caZJY7Pk4.gif" alt="Running screenfetch">
+<img src="https://recordit.co/nwnJ0umK46.gif" alt="Running screenfetch">
