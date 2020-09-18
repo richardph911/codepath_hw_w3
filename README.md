@@ -16,7 +16,8 @@ echo $name'@'$univ
 
 Save the file as **screenfetch.gif**.
 
-**Challenges and Problems**: 
+**Challenges and Problems**: Not farmiliar with linux. sometimes it is difficult to set changes on mac
+The Kap tools export too large gif so I have to use diffeerent tool to record it
 
 ### Installing VirtualBox and Kali
 <img src="https://recordit.co/44KhTCMbzS.gif" alt="Virtualbox Installation">
