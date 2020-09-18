@@ -22,4 +22,4 @@ Save the file as **screenfetch.gif**.
 <img src="https://recordit.co/44KhTCMbzS.gif" alt="Virtualbox Installation">
  
 ### Running screenfetch
-<img src="https://recordit.co/5caZJY7Pk4" alt="Running screenfetch">
+<img src="https://recordit.co/5caZJY7Pk4.gif" alt="Running screenfetch">
